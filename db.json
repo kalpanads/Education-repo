@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "firstname": "bittu",
+      "lastname": "nayak",
+      "username": "dharamsoth",
+      "email": "dsbnanieee@gmail.com",
+      "id": 1
+    },
+    {
+      "firstname": "dfgh",
+      "lastname": "bnm",
+      "username": "jkl",
+      "email": "nm",
+      "id": 2
+    },
+    {
+      "firstname": "xcvbnm,",
+      "lastname": "sdfg",
+      "username": "qwer",
+      "email": "dsbnanieee@gmail.com",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
